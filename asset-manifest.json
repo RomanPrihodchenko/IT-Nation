@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/IT-Nation/static/css/main.46e3019c.chunk.css",
+    "main.js": "/IT-Nation/static/js/main.f0e2a862.chunk.js",
+    "main.js.map": "/IT-Nation/static/js/main.f0e2a862.chunk.js.map",
+    "runtime-main.js": "/IT-Nation/static/js/runtime-main.5d690e42.js",
+    "runtime-main.js.map": "/IT-Nation/static/js/runtime-main.5d690e42.js.map",
+    "static/css/2.e0686c58.chunk.css": "/IT-Nation/static/css/2.e0686c58.chunk.css",
+    "static/js/2.a8513620.chunk.js": "/IT-Nation/static/js/2.a8513620.chunk.js",
+    "static/js/2.a8513620.chunk.js.map": "/IT-Nation/static/js/2.a8513620.chunk.js.map",
+    "index.html": "/IT-Nation/index.html",
+    "precache-manifest.728e43be2009571d3e1ef1c01c580c86.js": "/IT-Nation/precache-manifest.728e43be2009571d3e1ef1c01c580c86.js",
+    "service-worker.js": "/IT-Nation/service-worker.js",
+    "static/css/2.e0686c58.chunk.css.map": "/IT-Nation/static/css/2.e0686c58.chunk.css.map",
+    "static/css/main.46e3019c.chunk.css.map": "/IT-Nation/static/css/main.46e3019c.chunk.css.map",
+    "static/js/2.a8513620.chunk.js.LICENSE.txt": "/IT-Nation/static/js/2.a8513620.chunk.js.LICENSE.txt",
+    "static/media/GC_logo.svg": "/IT-Nation/static/media/GC_logo.0662d9de.svg",
+    "static/media/ITN_logo.svg": "/IT-Nation/static/media/ITN_logo.2f311a05.svg",
+    "static/media/city_planing.jpg": "/IT-Nation/static/media/city_planing.f8f67844.jpg",
+    "static/media/energetics.jpg": "/IT-Nation/static/media/energetics.43f9dac6.jpg",
+    "static/media/energy.jpg": "/IT-Nation/static/media/energy.fb084e1e.jpg",
+    "static/media/HeroBlock.scss": "/IT-Nation/static/media/hero-bg.5d86912d.jpg",
+    "static/media/industry.jpg": "/IT-Nation/static/media/industry.5ec44869.jpg",
+    "static/media/shid_emozhl_logo.svg": "/IT-Nation/static/media/shid_emozhl_logo.341a487c.svg",
+    "static/media/slide-1.jpg": "/IT-Nation/static/media/slide-1.7e1db0da.jpg",
+    "static/media/slide-2.jpg": "/IT-Nation/static/media/slide-2.12a25e24.jpg",
+    "static/media/slide-3.jpg": "/IT-Nation/static/media/slide-3.638ec227.jpg",
+    "static/media/slide-4.jpg": "/IT-Nation/static/media/slide-4.8a21e8b7.jpg",
+    "static/media/slide-5.jpg": "/IT-Nation/static/media/slide-5.bb9f49bb.jpg",
+    "static/media/transport.jpg": "/IT-Nation/static/media/transport.65643b05.jpg",
+    "static/media/utilisation.jpg": "/IT-Nation/static/media/utilisation.a8b6caee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d690e42.js",
+    "static/css/2.e0686c58.chunk.css",
+    "static/js/2.a8513620.chunk.js",
+    "static/css/main.46e3019c.chunk.css",
+    "static/js/main.f0e2a862.chunk.js"
+  ]
+}
